@@ -1,1 +1,1 @@
-# pugfile-contract
+# puglife-contract
